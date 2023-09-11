@@ -8,5 +8,7 @@ To use the bot:
    - sqlaclhemy
    - telebot
    - telegram
-2. Set tge API token in telegram.py
-3. Run __init_\_.py
+2. Create telegram bot with @botfather
+3. Create API token
+4. Set the API token in telegram.py
+5. Run __init_\_.py
