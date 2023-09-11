@@ -4,7 +4,7 @@ import sys
 import datetime
 from dbapi import DatabaseConnector
 
-TOKEN = "6260187378:AAGuuzkGs8CqBvtagKeCITyUCtY5amY3ZXo"
+TOKEN = "YOUR TOKEN"
 
 db = DatabaseConnector()
 
