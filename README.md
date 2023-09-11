@@ -1,3 +1,12 @@
 Telegram Electronic Library at Sber School 21 Team Project
 
-To use the bot, install all the necessary modules, upload the files, change the bot token to your own and run __init_\_.py
+To use the bot: 
+1. Install all the necessary libraries:
+   - pandas
+   - threding
+   - flask
+   - sqlaclhemy
+   - telebot
+   - telegram
+2. Set tge API token in telegram.py
+3. Run __init_\_.py
